@@ -1,0 +1,13 @@
+.header-container{
+    text-align: center;
+    display: flex;
+}
+
+.header-default {
+    background-color: #F38630;
+    width: 100%;
+}
+
+.header-default h1 {
+    color: white;
+}

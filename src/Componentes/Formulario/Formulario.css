@@ -1,0 +1,41 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0px;
+}
+
+.formulario form {
+    height: 100%;
+    background-color: white;
+    border-radius: 16px;
+    padding: 20px 20px 15px 20px;
+}
+
+.formulario h1{
+    text-align: center;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+.formulario form button{
+    color: white;
+    background-color: #F38630;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 12px;
+    width: 160px;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+}
+
+.formulario form button:hover {
+    color: #F38630;
+    background-color: white;
+    border: 1px solid #F38630;
+  }
