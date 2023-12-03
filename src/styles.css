@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .App {
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+  }
+
+  body{
+    background-color: #e5eaf5;
+    text-decoration: none;
+    font-family: 'Manrope', sans-serif;
+  }
+
+  a{
+    text-decoration: none;
+  }

@@ -1,0 +1,16 @@
+.intro {
+    text-align: center;
+    padding: 70px 0;
+    color: black;
+  }
+
+  .intro h2 {
+    font-size: 28px;
+    font-family: 'Manrope', sans-serif;
+  }
+
+  .intro p {
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 400;
+  }

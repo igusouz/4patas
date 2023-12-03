@@ -1,0 +1,110 @@
+.centralizar {
+    display: flex;
+    justify-content: center;
+}
+
+.gerenciamento-de-pets{
+    display: inline-block;
+    justify-content: center;
+    margin: 60px 0px;
+    padding-left: 50px;
+}
+
+.topo-gerenciamento{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.topo-gerenciamento h2{
+    padding-right: 20px;
+}
+
+.adicionar-pet{
+    color: white;
+    background-color: #F38630;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 12px;
+    width: 160px;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+}
+
+.adicionar-pet:hover{
+    color: #F38630;
+    background-color: white;
+    border: 1px solid #F38630;
+}
+
+.dados-pets{
+    margin-top: 20px;
+}
+
+.dados-pets ul {
+    list-style: none;
+}
+
+.dados-pets li{
+    padding-top: 10px;
+}
+
+.editar-pet {
+    color: white;
+    background-color: green;
+    font-weight: 700;
+    font-size: 12px;
+    width: 60px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+.editar-pet:hover{
+    color: green;
+    background-color: white;
+    border: 1px solid green;
+}
+
+
+.excluir-pet {
+    color: white;
+    background-color: red;
+    font-weight: 700;
+    font-size: 12px;
+    width: 60px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+}
+
+.excluir-pet:hover {
+    color: red;
+    background-color: white;
+    border: 1px solid red;
+}
+
+.edicao-pet{
+    margin-top: 50px;
+}
+
+.atualizar-pet{
+    color: white;
+    background-color: blue;
+    font-weight: 700;
+    font-size: 12px;
+    width: 60px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+}
+
+.atualizar-pet:hover{
+    color: blue;
+    background-color: white;
+    border: 1px solid blue;
+}
